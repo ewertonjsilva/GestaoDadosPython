@@ -1,14 +1,14 @@
 # Gestão de Dados com Python
 
-Uma solução robusta e profissional para processamento, transformação e análise de dados de vendas utilizando Python. Este projeto demonstra boas práticas de engenharia de dados, incluindo pipelines de transformação, conexão com banco de dados e análise exploratória.
+Uma solução robusta e profissional para processamento, usada para simular uma transformação de dados. Este projeto demonstra boas práticas de engenharia de dados, incluindo pipelines de transformação, conexão com banco de dados e análise exploratória.
 
 ## 📋 Visão Geral
 
-Gestão de Dados com Python é um projeto educacional que implementa um pipeline completo de dados, desde a coleta e processamento até a transformação e análise de dados de vendas. O projeto utiliza Jupyter Notebooks para exploração interativa e módulos Python reutilizáveis para operações de transformação e persistência de dados.
+Gestão de Dados com Python é um projeto educacional que implementa um pipeline completo de dados, desde a coleta e processamento até a transformação e análise de dados. O projeto utiliza Jupyter Notebooks para exploração interativa e módulos Python reutilizáveis para operações de transformação e persistência de dados.
 
 ## ✨ Recursos Principais
 
-- **Processamento de Dados**: Transformação e limpeza de dados de vendas em larga escala
+- **Processamento de Dados**: Transformação e limpeza de dados em larga escala
 - **Pipeline de Transformação**: Módulos especializados para diferentes tipos de transformações
   - Transformadores genéricos para operações comuns
   - Transformadores específicos para casos de uso particulares
